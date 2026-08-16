@@ -1,0 +1,4 @@
+package.json
+capacitor.config.json
+www/index.html
+.github/workflows/build-apk.yml
