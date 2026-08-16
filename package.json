@@ -1,0 +1,16 @@
+{
+  "name": "arabic-letters-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "تعلم الحروف العربية - Android App",
+  "scripts": {
+    "build": "echo 'no build step needed, static HTML in www/'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
