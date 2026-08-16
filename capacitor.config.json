@@ -1,0 +1,6 @@
+{
+  "appId": "com.mycompany.arabicletters",
+  "appName": "تعلم الحروف العربية",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
